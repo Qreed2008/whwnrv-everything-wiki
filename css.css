@@ -1,0 +1,10 @@
+.collapsible {
+  text-align: left;
+  width: 100%;
+}
+
+.collapsible-content {
+  background-color: #0f0f0f0f;
+  padding: 0 20px;
+  display: none;
+}
